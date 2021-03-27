@@ -96,7 +96,7 @@ The board (sci2can) has a private power supply from 230V to 5V 700mA.
 
 The complete system is look like this.
 
-![system](https://github.com/butyi/spottimer/raw/master/pics/spottimer.jpg)
+![system](https://github.com/butyi/spottimer/raw/master/spottimer.jpg)
 
 ## License
 
